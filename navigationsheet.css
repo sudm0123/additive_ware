@@ -1,0 +1,21 @@
+.list a:link,.list a:visited
+{
+	border:0px;
+	display:block;
+	width:120px;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#0033CC;
+	text-align:center;
+	padding:10px;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+.list a:hover,.list a:active
+{
+	border-style:dashed;
+	border-width:1px;
+	border-color:#ffffff;
+	background-color:transparent;
+	color:#FF6600;
+}
